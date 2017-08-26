@@ -1,3 +1,0 @@
-# technopoly
-
-Technopoly website
